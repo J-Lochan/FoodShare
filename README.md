@@ -2,16 +2,20 @@
 
 # 🍽️ FoodShare — Community Food Rescue & Distribution Platform
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Active-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adityakasara.github.io/FoodShare/)
-[![Deployed on](https://img.shields.io/badge/Deployed_on-GitHub_Pages-10b981?style=for-the-badge&logo=github&logoColor=white)](https://adityakasara.github.io/FoodShare/)
-[![PWA Ready](https://img.shields.io/badge/PWA-Installable-blue?style=for-the-badge&logo=pwa&logoColor=white)](https://adityakasara.github.io/FoodShare/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Active-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://j-lochan.github.io/FoodShare/)
+[![Deployed on](https://img.shields.io/badge/Deployed_on-GitHub_Pages-10b981?style=for-the-badge&logo=github&logoColor=white)](https://j-lochan.github.io/FoodShare/)
+[![Hackathon](https://img.shields.io/badge/TMCG_Hackathon-Top_5_Winner-gold?style=for-the-badge&logo=target&logoColor=white)](https://github.com/J-Lochan/FoodShare)
+[![PWA Ready](https://img.shields.io/badge/PWA-Installable-blue?style=for-the-badge&logo=pwa&logoColor=white)](https://j-lochan.github.io/FoodShare/)
 [![License](https://img.shields.io/badge/License-MIT-gray?style=for-the-badge)](LICENSE)
 
 **A modern, responsive full-stack platform designed to connect surplus food donors (restaurants, caterers, individuals) with local volunteers to reduce food waste and feed communities in real-time.**
 
+> 🏆 **TMCG Hackathon — Top 5 Finalist Project**  
+> Designed and engineered by our team during the TMCG Hackathon, securing a top 5 finish for social impact, real-time logistics routing, and intuitive community UX.
+
 ---
 
-### 🌐 [Click Here to Access the Live Web App →](https://adityakasara.github.io/FoodShare/)
+### 🌐 [Click Here to Access the Live Web App →](https://j-lochan.github.io/FoodShare/)
 
 </div>
 
@@ -47,7 +51,7 @@
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/Adityakasara/FoodShare.git
+git clone https://github.com/J-Lochan/FoodShare.git
 cd FoodShare
 ```
 
@@ -72,14 +76,15 @@ Visit **`http://localhost:3000`** in your browser.
 
 ---
 
-## 👤 Author & Developer
-
-**Aditya Kasara**  
-- 🌐 **Live Web App:** [adityakasara.github.io/FoodShare](https://adityakasara.github.io/FoodShare/)  
-- 🐙 **GitHub:** [@Adityakasara](https://github.com/Adityakasara)
+## 👥 Authors & Team
+**J. Lochan & Team** (TMCG Hackathon Top 5 Finalists)
+- 🌐 **Live Web App:** [j-lochan.github.io/FoodShare](https://j-lochan.github.io/FoodShare/)
+- 🐙 **GitHub:** [@J-Lochan](https://github.com/J-Lochan)
+- 💼 **LinkedIn:** [Lochan Narayana Rao](https://www.linkedin.com/in/lochan-narayana-rao-janapareddy-a59248293)
+- ✉️ **Contact:** [lochannarayanarao@gmail.com](mailto:lochannarayanarao@gmail.com)
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ for community food sharing & zero waste initiatives.</sub>
+  <sub>Built with ❤️ for community food sharing & zero waste initiatives &bull; TMCG Hackathon</sub>
 </div>
